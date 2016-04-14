@@ -95,6 +95,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 * [Blockit/PyF95++](http://blockit.sourceforge.net/) - A fairly simple Python framework used to block parse your code (or any text file) into nested blocks. The BlockIt framework has already been used to create a templating capability for the Fortran 95/2003 language along with some language extensions.
 * [PreForM](https://github.com/szaghi/PreForM) - Preprocessor for Fortran poor Men.
+* [Forpedo](https://github.com/drewmccormack/forpedo) - Preprocessor for Fortran 90 code
 
 ## Automatic documentation
 *Libraries for building documentation.*
